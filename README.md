@@ -3,6 +3,8 @@
 
 ![img](images/screenshot.png)
 
+![img](images/screenshot2.png)
+
 ## Introduction
 
 ### Features
