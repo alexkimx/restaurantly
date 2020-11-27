@@ -28,9 +28,7 @@ Git
 Apache
 
 
-## Contributing
 
-We'll think about it.
 
 ## Created by
 
